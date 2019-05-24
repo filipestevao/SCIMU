@@ -13,7 +13,7 @@ Programa desenvolvido para o Laboratório de Metalografia da UNIFESP (Campus Sã
 * [gphoto2](http://gphoto.org/)
 * [ImageMagick](https://imagemagick.org/)
 
-## Instalação das dependências
+### Instalação das dependências
 
 Para Ubuntu e derivados:
 ```
