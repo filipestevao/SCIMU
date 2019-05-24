@@ -8,7 +8,7 @@ Programa desenvolvido para o Laboratório de Metalografia da UNIFESP (Campus Sã
 
 ## Dependências
 
-* [Pyton3](https://www.python.org/)
+* [Python3](https://www.python.org/)
 * [PyQt5](https://pypi.org/project/PyQt5/)
 * [gphoto2](http://gphoto.org/)
 * [ImageMagick](https://imagemagick.org/)
