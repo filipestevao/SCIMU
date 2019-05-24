@@ -4,7 +4,7 @@ Software de Captura de Imagens - Laboratório de Metalografia da UNIFESP
 
 ## Descrição
 
-Programa desenvolvido para o Laboratório de Metalografia da UNIFESP (Campus São José dos Campos), com o objetivo de faciliar a captura de fotos utilizando uma câmera Nikon S3100.
+Programa desenvolvido para o Laboratório de Metalografia da UNIFESP (Campus São José dos Campos) com o objetivo de faciliar a captura de fotos utilizando uma câmera Nikon S3100.
 
 ## Dependências
 
