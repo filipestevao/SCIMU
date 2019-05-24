@@ -25,3 +25,22 @@ Para o Fedora:
 sudo dnf install gphoto2 ImageMagick
 pip3 install --user pyqt5
 ```
+
+## Instalação do SCIMU
+
+Baixar o software:
+```
+git clone https://github.com/filipestevao/SCIMU.git
+```
+Navegar para a pasta SCIMU:
+```
+cd SCIMU
+```
+Dar permissão de execussão para o arquivo `scimu.py`:
+```
+chmod +x scimu.py
+```
+Abrir o arquivo `scimu.py`:
+```
+./scimu.py
+```
