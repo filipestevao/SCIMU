@@ -36,7 +36,7 @@ Navegar para a pasta SCIMU:
 ```
 cd SCIMU
 ```
-Dar permissão de execussão para o arquivo `scimu.py`:
+Dar permissão de execução para o arquivo `scimu.py`:
 ```
 chmod +x scimu.py
 ```
