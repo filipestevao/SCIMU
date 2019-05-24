@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW X5 -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   xml:space="preserve"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg116"
+   sodipodi:docname="icon128.svg"
+   width="256"
+   height="256"
+   inkscape:version="0.92.4 (unknown)"><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1366"
+   inkscape:window-height="697"
+   id="namedview118"
+   showgrid="false"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"
+   inkscape:zoom="1.28"
+   inkscape:cx="161.73749"
+   inkscape:cy="79.104628"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg116" />
+ <defs
+   id="defs26">
+  <style
+   type="text/css"
+   id="style2">
+    .fil9 {fill:#4B4B4D}
+    .fil0 {fill:#606062}
+    .fil8 {fill:#727376}
+    .fil1 {fill:#848688}
+    .fil4 {fill:#A9ABAE}
+    .fil10 {fill:#ABA994}
+    .fil5 {fill:#D2D3D5}
+    .fil6 {fill:#E6E7E8}
+    .fil13 {fill:#FEFEFE}
+    .fil7 {fill:#FEFEFE;fill-opacity:0.309804}
+    .fil3 {fill:url(#id0)}
+    .fil11 {fill:url(#id1)}
+    .fil2 {fill:url(#id2)}
+    .fil12 {fill:url(#id3)}
+  </style>
+  <linearGradient
+   id="id0"
+   y2="1681.7"
+   gradientUnits="userSpaceOnUse"
+   x2="6127.1001"
+   y1="5367.6001"
+   x1="5548.2002">
+   <stop
+   style="stop-color:#FEFEFE"
+   offset="0"
+   id="stop4" />
+   <stop
+   style="stop-color:#D3A8C4"
+   offset=".23922"
+   id="stop6" />
+   <stop
+   style="stop-color:#A8518A"
+   offset="1"
+   id="stop8" />
+  </linearGradient>
+  <linearGradient
+   id="id1"
+   y2="3699.2"
+   gradientUnits="userSpaceOnUse"
+   x2="6845.7002"
+   y1="4275.3999"
+   x1="7319.7002">
+   <stop
+   style="stop-color:#FEFEFE"
+   offset="0"
+   id="stop11" />
+   <stop
+   style="stop-color:#ABA994"
+   offset="1"
+   id="stop13" />
+  </linearGradient>
+  <linearGradient
+   id="id2"
+   y2="2740.8"
+   gradientUnits="userSpaceOnUse"
+   x2="7810.7002"
+   y1="4956.5"
+   x1="3310">
+   <stop
+   style="stop-color:#A8518A"
+   offset="0"
+   id="stop16" />
+   <stop
+   style="stop-color:#FEFEFE"
+   offset="1"
+   id="stop18" />
+  </linearGradient>
+  <linearGradient
+   id="id3"
+   y2="3907.1001"
+   gradientUnits="userSpaceOnUse"
+   x2="6936.7998"
+   y1="3703.2"
+   x1="6769">
+   <stop
+   style="stop-color:#FEFEFE"
+   offset="0"
+   id="stop21" />
+   <stop
+   style="stop-color:#FEFEFE"
+   offset="1"
+   id="stop23" />
+  </linearGradient>
+ </defs>
+ <g
+   id="Layer_x0020_1"
+   transform="matrix(0.03727715,0,0,0.03727715,-79.279593,-12.329831)">
+  <g
+   id="_362947200">
+   <rect
+   rx="94"
+   ry="94"
+   height="188"
+   width="653"
+   y="1774"
+   x="7585"
+   class="fil0"
+   id="rect28"
+   style="fill:#606062" />
+   
+   <path
+   class="fil1"
+   d="m 3236,1746 h 79 v 53 c 0,11 9,21 21,21 h 691 c 11,0 21,-9 21,-21 v -53 h 79 c 25,0 45,20 45,45 v 243 c 0,25 -20,45 -45,45 h -890 c -25,0 -45,-20 -45,-45 v -243 c 0,-25 20,-45 45,-45 z"
+   id="path32"
+   inkscape:connector-curvature="0"
+   style="fill:#848688" />
+   <rect
+   rx="429"
+   ry="429"
+   height="3961"
+   width="6787"
+   y="1868"
+   x="2167"
+   class="fil2"
+   id="rect34"
+   style="fill:url(#id2)" />
+   <path
+   class="fil3"
+   d="m 2722,1868 h 5803 c 236,0 429,193 429,429 v 2583 c -256,189 -571,301 -912,301 H 4263 c -848,0 -1541,-694 -1541,-1541 z"
+   id="path36"
+   inkscape:connector-curvature="0"
+   style="fill:url(#id0)" />
+   <rect
+   rx="153"
+   ry="153"
+   height="458"
+   width="1569"
+   y="2212"
+   x="2621"
+   class="fil4"
+   id="rect38"
+   style="fill:#a9abae" />
+   <circle
+   cy="3906"
+   cx="6936"
+   r="1664"
+   class="fil5"
+   id="circle40"
+   style="fill:#d2d3d5" />
+   <circle
+   cy="3906"
+   cx="6936"
+   r="1574"
+   class="fil4"
+   id="circle42"
+   style="fill:#a9abae" />
+   <path
+   class="fil6"
+   d="m 8247,4777 c -37,56 -78,110 -122,160 L 6943,3879 Z"
+   id="path44"
+   inkscape:connector-curvature="0"
+   style="fill:#e6e7e8" />
+   <path
+   class="fil5"
+   d="m 8034,5033 c -281,274 -664,444 -1086,447 V 3882 Z"
+   id="path46"
+   inkscape:connector-curvature="0"
+   style="fill:#d2d3d5" />
+   <path
+   class="fil6"
+   d="m 5629,3030 c 46,-69 98,-134 154,-194 l 1146,1097 z"
+   id="path48"
+   inkscape:connector-curvature="0"
+   style="fill:#e6e7e8" />
+   <path
+   class="fil7"
+   d="m 5837,2780 c 281,-274 664,-444 1086,-447 v 1598 z"
+   id="path50"
+   inkscape:connector-curvature="0"
+   style="fill:#fefefe;fill-opacity:0.30980398" />
+   <circle
+   cy="3906"
+   cx="6936"
+   r="1118"
+   class="fil1"
+   id="circle52"
+   style="fill:#848688" />
+   <rect
+   rx="164"
+   ry="164"
+   height="992"
+   width="2004"
+   y="3435"
+   x="5921"
+   class="fil8"
+   id="rect54"
+   style="fill:#727376" />
+   <path
+   class="fil9"
+   d="m 6382,3435 h 1082 c 120,131 193,305 193,496 0,191 -73,365 -193,496 H 6382 c -120,-131 -193,-305 -193,-496 0,-191 73,-365 193,-496 z"
+   id="path56"
+   inkscape:connector-curvature="0"
+   style="fill:#4b4b4d" />
+   <circle
+   cy="3931"
+   cx="6924"
+   r="457"
+   class="fil10"
+   id="circle58"
+   style="fill:#aba994" />
+   <path
+   class="fil11"
+   d="m 7108,3863 c 129,-50 227,10 220,136 -7,125 -118,268 -246,318 -129,50 -227,-10 -220,-136 7,-125 118,-268 246,-318 z"
+   id="path60"
+   inkscape:connector-curvature="0"
+   style="fill:url(#id1)" />
+   <path
+   class="fil12"
+   d="m 6606,3701 c 52,-56 118,-73 149,-36 30,36 13,112 -39,168 -52,56 -118,73 -149,36 -30,-36 -13,-112 39,-168 z"
+   id="path62"
+   inkscape:connector-curvature="0"
+   style="fill:url(#id3)" />
+   <rect
+   rx="49"
+   ry="49"
+   height="97"
+   width="653"
+   y="1700"
+   x="3355"
+   class="fil1"
+   id="rect64"
+   style="fill:#848688" />
+   <g
+   id="g110">
+    <rect
+   rx="193"
+   ry="193"
+   height="580"
+   width="1641"
+   y="2183"
+   x="2585"
+   class="fil4"
+   id="rect66"
+   style="fill:#a9abae" />
+    <g
+   id="g108">
+     <path
+   class="fil13"
+   d="m 2649,2605 37,37 c -14,-10 -27,-23 -37,-37 z"
+   id="path68"
+   inkscape:connector-curvature="0"
+   style="fill:#fefefe" />
+     <path
+   class="fil13"
+   d="m 2621,2481 190,190 h -37 c -12,0 -24,-1 -36,-4 l -113,-113 c -3,-12 -4,-24 -4,-36 z"
+   id="path70"
+   inkscape:connector-curvature="0"
+   style="fill:#fefefe" />
+     <polygon
+   points="2907,2670 2838,2670 2621,2453 2621,2384 "
+   class="fil13"
+   id="polygon72"
+   style="fill:#fefefe" />
+     <path
+   class="fil13"
+   d="m 2635,2301 369,369 h -68 l -314,-314 c 1,-19 6,-38 14,-55 z"
+   id="path74"
+   inkscape:connector-curvature="0"
+   style="fill:#fefefe" />
+     <path
+   class="fil13"
+   d="m 2677,2247 423,423 h -68 l -387,-387 c 9,-14 20,-26 32,-36 z"
+   id="path76"
+   inkscape:connector-curvature="0"
+   style="fill:#fefefe" />
+     <path
+   class="fil13"
+   d="m 2742,2215 455,455 h -68 l -435,-435 c 15,-9 31,-16 49,-20 z"
+   id="path78"
+   inkscape:connector-curvature="0"
+   style="fill:#fefefe" />
+     <path
+   class="fil13"
+   d="m 2835,2212 458,458 h -68 l -458,-458 h 7 62 z"
+   id="path80"
+   inkscape:connector-curvature="0"
+   style="fill:#fefefe" />
+     <polygon
+   points="3390,2670 3322,2670 2863,2212 2932,2212 "
+   class="fil13"
+   id="polygon82"
+   style="fill:#fefefe" />
+     <polygon
+   points="3487,2670 3418,2670 2960,2212 3028,2212 "
+   class="fil13"
+   id="polygon84"
+   style="fill:#fefefe" />
+     <polygon
+   points="3583,2670 3515,2670 3057,2212 3125,2212 "
+   class="fil13"
+   id="polygon86"
+   style="fill:#fefefe" />
+     <polygon
+   points="3680,2670 3612,2670 3153,2212 3222,2212 "
+   class="fil13"
+   id="polygon88"
+   style="fill:#fefefe" />
+     <polygon
+   points="3777,2670 3708,2670 3250,2212 3318,2212 "
+   class="fil13"
+   id="polygon90"
+   style="fill:#fefefe" />
+     <polygon
+   points="3873,2670 3805,2670 3346,2212 3415,2212 "
+   class="fil13"
+   id="polygon92"
+   style="fill:#fefefe" />
+     <polygon
+   points="3970,2670 3901,2670 3443,2212 3511,2212 "
+   class="fil13"
+   id="polygon94"
+   style="fill:#fefefe" />
+     <path
+   class="fil13"
+   d="m 3608,2212 456,456 c -9,2 -18,2 -27,2 h -39 l -458,-458 z"
+   id="path96"
+   inkscape:connector-curvature="0"
+   style="fill:#fefefe" />
+     <path
+   class="fil13"
+   d="m 3705,2212 426,426 c -13,10 -28,18 -44,24 l -450,-450 z"
+   id="path98"
+   inkscape:connector-curvature="0"
+   style="fill:#fefefe" />
+     <path
+   class="fil13"
+   d="m 3801,2212 373,373 c -7,15 -17,28 -28,40 l -413,-413 z"
+   id="path100"
+   inkscape:connector-curvature="0"
+   style="fill:#fefefe" />
+     <path
+   class="fil13"
+   d="m 3898,2212 292,292 v 13 c 0,17 -3,32 -8,47 l -353,-353 h 68 z"
+   id="path102"
+   inkscape:connector-curvature="0"
+   style="fill:#fefefe" />
+     <polygon
+   points="4190,2408 4190,2476 3926,2212 3995,2212 "
+   class="fil13"
+   id="polygon104"
+   style="fill:#fefefe" />
+     <path
+   class="fil13"
+   d="m 4109,2230 62,62 c 12,22 18,46 18,72 v 14 l -167,-167 h 14 c 26,0 51,7 72,18 z"
+   id="path106"
+   inkscape:connector-curvature="0"
+   style="fill:#fefefe" />
+    </g>
+   </g>
+  </g>
+ </g>
+<metadata
+   id="metadata114"><rdf:RDF><cc:Work><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><cc:license
+         rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" /><dc:publisher><cc:Agent
+           rdf:about="http://openclipart.org/"><dc:title>Openclipart</dc:title></cc:Agent></dc:publisher><dc:title>Digital Camera</dc:title><dc:date>2012-07-08T03:44:15</dc:date><dc:description>A purple colored Digital Point and shoot camera.</dc:description><dc:source>https://openclipart.org/detail/171090/digital-camera-by-wik2kassa-171090</dc:source><dc:creator><cc:Agent><dc:title>wik2kassa</dc:title></cc:Agent></dc:creator><dc:subject><rdf:Bag><rdf:li>camera</rdf:li><rdf:li>digital camera</rdf:li><rdf:li>flash</rdf:li><rdf:li>point and shoot</rdf:li><rdf:li>purple</rdf:li><rdf:li>small</rdf:li></rdf:Bag></dc:subject></cc:Work><cc:License
+       rdf:about="http://creativecommons.org/publicdomain/zero/1.0/"><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Reproduction" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#Distribution" /><cc:permits
+         rdf:resource="http://creativecommons.org/ns#DerivativeWorks" /></cc:License></rdf:RDF></metadata></svg>
