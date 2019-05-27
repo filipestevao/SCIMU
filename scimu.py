@@ -106,8 +106,7 @@ class JanelaPrincipal(QMainWindow):
         self.grupoSalvar.resize(self.geometry().width(), self.grupoSalvar.minimumSizeHint().height())
         y = 20 + self.titulo.size().height()
         self.grupoSalvar.move(0, y)
-        # self.grupoSalvar.setStyleSheet("QGroupBox {background-color: #EFF0F1; border: 0px}")
-
+        
 
     def nomeArquivo(self):
         # Cria grupo
@@ -163,9 +162,6 @@ class JanelaPrincipal(QMainWindow):
         font = QFont()
         font.setBold(True)
         self.btnCapturar.setFont(font)
-        # Para apenas avançar a barra de progresso: descomentar linhas e comentar 'clicked' acima
-        # self.btnCapturar.clicked.connect(self.advanceProgressBar)
-        # self.last_call = 0
 
 
     def criaProgressBar(self):
