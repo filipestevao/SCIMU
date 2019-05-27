@@ -243,7 +243,7 @@ class JanelaPrincipal(QMainWindow):
         for i in range(11,61):
             self.progressBar.setValue(i)
             time.sleep(0.2)
-        # time.sleep(10) # Espera 10 segundos
+        # Lista todas as imagens e seleciona a ultima foto
         cmd2 = 'gphoto2 --list-files'
         saida_cmd2 = subprocess.getoutput(cmd2).splitlines()
         ultima_linha_cmd2 = saida_cmd2[len(saida_cmd2)-1].split() # lista
