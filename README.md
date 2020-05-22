@@ -6,6 +6,10 @@ Software de Captura de Imagens - Laboratório de Metalografia da UNIFESP
 
 Programa desenvolvido para o Laboratório de Metalografia da UNIFESP (Campus São José dos Campos) com o objetivo de faciliar a captura de fotos utilizando uma câmera Nikon S3100.
 
+## Captura de tela
+
+![Screenshot1](./screenshot-scimu.jpg)
+
 ## Dependências
 
 * [Python3](https://www.python.org/)
