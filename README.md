@@ -32,19 +32,11 @@ pip3 install --user pyqt5
 
 ## Instalação do SCIMU
 
-Baixar o software:
+Baixar e executar o arquivo `scimu.py`. Segue os comandos:
+
 ```
 git clone https://github.com/filipestevao/SCIMU.git
-```
-Navegar para a pasta SCIMU:
-```
 cd SCIMU
-```
-Dar permissão de execução para o arquivo `scimu.py`:
-```
 chmod +x scimu.py
-```
-Abrir o arquivo `scimu.py`:
-```
 ./scimu.py
 ```
